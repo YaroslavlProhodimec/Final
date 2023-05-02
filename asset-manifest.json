@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app-final/static/css/main.00194cc8.css",
+    "main.js": "/my-app-final/static/js/main.71ed8525.js",
+    "static/js/787.811d587c.chunk.js": "/my-app-final/static/js/787.811d587c.chunk.js",
+    "static/media/adidasGold.png": "/my-app-final/static/media/adidasGold.204eedeb6b63783e6651.png",
+    "static/media/adidasPink.png": "/my-app-final/static/media/adidasPink.4ec02ebc8aafffc9e76d.png",
+    "static/media/adidasGray.png": "/my-app-final/static/media/adidasGray.498ff4d345d13caaa817.png",
+    "static/media/nikePink.png": "/my-app-final/static/media/nikePink.18f5728153a675a59877.png",
+    "static/media/balanseaga.png": "/my-app-final/static/media/balanseaga.3ee0482a280b03be4d3c.png",
+    "static/media/nikeGreen.png": "/my-app-final/static/media/nikeGreen.61b0bf9bd8029b890787.png",
+    "static/media/nikeYellow.png": "/my-app-final/static/media/nikeYellow.a74591ba60dfff1659bb.png",
+    "static/media/adidasBrown.png": "/my-app-final/static/media/adidasBrown.6f896dfefdd46c86ec1d.png",
+    "static/media/nikeBlack.png": "/my-app-final/static/media/nikeBlack.018e6e5598b55ba736d1.png",
+    "index.html": "/my-app-final/index.html",
+    "main.00194cc8.css.map": "/my-app-final/static/css/main.00194cc8.css.map",
+    "main.71ed8525.js.map": "/my-app-final/static/js/main.71ed8525.js.map",
+    "787.811d587c.chunk.js.map": "/my-app-final/static/js/787.811d587c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00194cc8.css",
+    "static/js/main.71ed8525.js"
+  ]
+}
